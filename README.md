@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привіт! Я Вадим Вакалюк 👋
 
-<!--
-**vakalyukvadim-sudo/vakalyukvadim-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент комп'ютерних наук та розробник, який цікавиться програмною інженерією, C++, мережевими технологіями та UI/UX дизайном.
 
-Here are some ideas to get you started:
+### 🛠 Мої навички та технології:
+- **Мови програмування:** C++, Markdown
+- **Інструменти та платформи:** Git, GitHub, Cisco Packet Tracer, VS Code, Figma
+- **Фундаментальні знання:** Алгоритми та структури даних, вища математика, комп'ютерні мережі
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Поточні цілі:
+- Поглиблення знань у сфері Software Engineering та розробки програмного забезпечення.
+- Вивчення сучасних веб-технологій та інструментів командної розробки.
+
+### 📫 Як зі мною зв'язатися:
+- GitHub: [vakalyukvadim-sudo](https://github.com/vakalyukvadim-sudo)
